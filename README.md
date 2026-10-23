@@ -54,6 +54,17 @@ Jogo desenvolvido por mim, para prática de criação de jogos e programação o
 
 ---
 
+### 🎮 Jogo: LoopBound
+Jogo desenvolvido por mim, para prática de criação de jogos e programação orientada a IA
+
+**Tecnologia:** OpenCode, Render
+
+🔗 [📋Ver Projeto](https://github.com/DPdhorodecki/Loopbound)
+
+🔗 [🎮Ver Jogo](https://dpdhorodecki.github.io/Loopbound/)
+
+---
+
 ### 🌎 Banco de Dados — Copa do Mundo
 Projeto acadêmico utilizando MySQL para representar e organizar informações sobre seleções, jogadores, técnicos, estádios e partidas da Copa do Mundo.
 
