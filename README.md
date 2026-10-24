@@ -61,7 +61,7 @@ Jogo desenvolvido por mim, para prática de criação de jogos e programação o
 
 🔗 [📋Ver Projeto](https://github.com/DPdhorodecki/Loopbound)
 
-🔗 [🎮Ver Jogo](https://dpdhorodecki.github.io/Loopbound/)
+🔗 [🎮Ver Jogo](https://loopbound-web.onrender.com)
 
 ---
 
